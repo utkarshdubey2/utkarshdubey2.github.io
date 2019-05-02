@@ -1,4 +1,2 @@
 ## Personal Website | utkarsh.co
-This is the source code of utkarsh.co, my own personal portfolio website( although none of my work is posted there :P)
-You can always use this source code.
-This is made along through the tutorial from Bulma's founder's ebook.
+This is the source code of utkarsh.co, my personal portfolio website. It uses ThreeJS for the home animation and is made purely out of inspiration.
